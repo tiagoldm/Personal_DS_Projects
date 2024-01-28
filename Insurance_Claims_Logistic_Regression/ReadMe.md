@@ -1,8 +1,8 @@
 ### Getting Started
 
-##### Download notebook 
-##### Download .csv file and place in the same folder as the notebook
-##### Open notebook with IDE such as Jupyter, Pycharm, etc
+##### 1: Download notebook 
+##### 2: Download .csv file and place in the same folder as the notebook
+##### 3: Open notebook with IDE such as Jupyter, Pycharm, etc
 
 # Project Description
 
