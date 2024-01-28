@@ -1,6 +1,6 @@
-*Project Description
+# Project Description
 
-***Project where I analyzed the car_insurance dataset to find the feature that was the best predictor of the claim "outcome".
+### Project where I analyzed the car_insurance dataset to find the feature that was the best predictor of the claim "outcome".
 
 Step 1: Cleaning missing values using mean imputation (both columns with missing values followed a normal distribution) 
 Step 2: Using Label Encoding to categorize columns with object type values, preparing for model application.
