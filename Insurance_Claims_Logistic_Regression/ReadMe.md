@@ -1,3 +1,9 @@
+### Getting Started
+
+##### Download notebook 
+##### Download .csv file and place in the same folder as the notebook
+##### Open notebook with IDE such as Jupyter, Pycharm, etc
+
 # Project Description
 
 ### Project where I analyzed the car_insurance dataset to find the feature that was the best predictor of the claim "outcome".
