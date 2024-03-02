@@ -1,1 +1,1 @@
-Here you can find a timeline of the projects I developed in my journey to prepare for the Data Scientist Associate Certification from Datacamp.
+Here you can find a timeline of the Machine Learning projects I developed across several courses, certifications, and for my company.
