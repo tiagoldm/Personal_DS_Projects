@@ -6,7 +6,7 @@
 
 # Project Description
 
-### Project where I analyzed the a coffeeshop dataset to predict the number of reviews for each location, based on several features.
+### Project where I analyzed a coffeeshop dataset to predict the number of reviews for each location, based on several features.
 
 ##### Step 1: Filling missing values using different methods, and encoding categorical columns, using an ordinal and non-ordinal encoder for different columns
 ##### Step 2: Grouping number of reviews by rating, to find mean, min, and max for each, in order to evaluate a relationship between both these columns
